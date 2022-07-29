@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import UseReducer02 from './hooks/6_useReducer/UseReducer02';
+import UseReducer03 from './hooks/6_useReducer/UseReducer03';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <UseReducer02></UseReducer02>
+        <UseReducer03></UseReducer03>
       </header>
     </div>
   );
